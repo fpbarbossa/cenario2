@@ -35,3 +35,5 @@ app.get("/user/:nome", async (req, res) => {
 app.listen(port, () => {
   console.log(`Servidor Express rodando na porta ${port}`);
 });
+
+//teste
